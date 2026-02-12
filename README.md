@@ -8,15 +8,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and servi
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Portfolio](#)** _(Add your deployed URL here)_
+🔗 **[View Live Portfolio](#)** _( https://ammarelshafey.github.io/Portfolio_With_Claude/)_
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Preview](./screenshots/desktop.png) _(Add screenshot)_
-
-### Mobile View
-![Mobile Preview](./screenshots/mobile.png) _(Add screenshot)_
 
 ## ✨ Features
 
