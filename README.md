@@ -8,7 +8,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and servi
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Portfolio](https://ammarelshafey.github.io/Portfolio_With_Claude/)_
+🔗 **[View Live Portfolio](https://ammarelshafey.github.io/Portfolio_With_Claude/)
 ** 
 
 ## ✨ Features
@@ -30,26 +30,6 @@ A modern, responsive portfolio website showcasing my skills, projects, and servi
 - **Font Awesome** - Icon library
 - **Google Fonts** - Playfair Display & DM Sans typography
 
-## 📂 Project Structure
-
-```
-portfolio/
-├── index.html          # Main HTML file
-├── me.jpeg            # Profile photo
-├── README.md          # Project documentation
-└── screenshots/       # Portfolio screenshots (to be added)
-    ├── desktop.png
-    └── mobile.png
-```
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Optional: Local web server for development
-`
-
 ## 📋 Sections
 
 The portfolio includes the following sections:
@@ -63,24 +43,6 @@ The portfolio includes the following sections:
 7. **Contact** - Contact form and social links
 8. **Footer** - Additional links and information
 
-## 🎨 Customization
-
-### Update Personal Information
-
-Edit `index.html` and update the following:
-
-**Contact Information:**
-```html
-<!-- Find and replace -->
-<a href="mailto:ammarsaidelshafey@gmail.com">Your Email</a>
-<a href="https://github.com/AmmarElshafey">Your GitHub</a>
-<a href="https://linkedin.com/in/ammar-elshafey">Your LinkedIn</a>
-```
-
-
-
-
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -92,13 +54,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - 💼 LinkedIn: [linkedin.com/in/ammar-elshafey](https://linkedin.com/in/ammar-elshafey)
 - 🐙 GitHub: [github.com/AmmarElshafey](https://github.com/AmmarElshafey)
 - 📧 Email: ammarsaidelshafey@gmail.com
-- 📍 Location: Tanta, Egypt
-
-## 🙏 Acknowledgments
-
-- **Font Awesome** - For the beautiful icons
-- **Google Fonts** - For the typography
-- **Inspiration** - From various developer portfolios and design communities
+- 📍 Location: Tanta, Egyp
 
 ## 📞 Support
 
