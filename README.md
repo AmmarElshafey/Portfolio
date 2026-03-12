@@ -62,8 +62,6 @@ If you have any questions or need help with the portfolio:
 
 - 📧 Email: ammarsaidelshafey@gmail.com
 - 💬 LinkedIn: [Message me](https://linkedin.com/in/ammar-elshafey)
-- 🐛 Issues: [GitHub Issues](https://github.com/AmmarElshafey/portfolio/issues)
-
 ---
 
 
